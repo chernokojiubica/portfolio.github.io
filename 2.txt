@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    padding: 15px;
+}
+
+h1  {
+    text-align: center;
+    padding: 10px;
+    color: greenyellow;
+}
+
+header {
+    background-color: paleturquoise;
+    padding: 20px;
+}
+
+.link-header {
+    text-decoration: none;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: inset 0px 0px 2px 1px;
+}
+
+.link-nav {
+    color: black;
+    margin: 10px;
+}
